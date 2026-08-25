@@ -1,0 +1,53 @@
+1.memory
+ans: its the most important part of a computer...memory is a type of storage used to store data,information and command in binary format...
+	its of 2 types. 1: Primary memory
+			     2: Secondary memory
+1:Primary memory:
+its also known as main memory.
+it has a limited storage.
+its faster and expensive than secondary memory.
+its of two type. A:RAM
+		       B:ROM
+A:RAM
+RAM stands for random access memory.
+its a volatile memory which stores data temporarily.
+its of 2 types. (a)SRAM
+                     (b)DRAM
+(a)SRAM
+SRAM stands for static random access memory.
+its expensive.
+its a type of computer memory which required a constant power flow in order to holds information.
+(b)DRAM
+DRAM stands for dynamic access memory.
+its less expensive then SRAM.
+its a type of computer memory which required a power flow of few millisecond in order to holds information.
+B:ROM
+ROM stands for read only memory.
+its a non-volatile memory which stores data permanently.
+its of 3 types. (a)PROM
+		     (b)EPROM
+		     (c)EEPROM
+(a)PROM
+PROM stands for programmable read only memory.
+its a type of computer memory in which after written data that can't be change.
+(b)EPROM
+EPROM stands for erasable programmable read only memory.
+its a type of computer memory in which written data can change using ultra violet light.
+(c)EEPROM
+EEPROM stands for electronic erasable programmable read only memory.
+its a type of computer memory in which written data can erasable and rewritten using electric.
+
+2.topology
+3.ALU
+4.list,tuple,set,string
+5.types of error
+6.break,continue
+7.different type of loop
+8.algorithm,uses,symbol of flowchart
+9.block diagram of computer
+10.factorial,prime,fibonaci,max btn 3
+11.reverse str
+12.how to take user input
+13.how to access element from list ,tuple ,dictionary
+14.python2 & python3
+15.default argument

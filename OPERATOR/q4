@@ -1,0 +1,4 @@
+#absolut value of a number
+num=int(input("enter no value"))
+absolute=num if num>=0 else -num
+print("absolute value is:",absolute)

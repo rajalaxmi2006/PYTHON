@@ -1,0 +1,93 @@
+                                                                                                                                 COMMAND LINE ARGUMENT
+                                                                                                                                 ==============================
+#what is command line & why we used command line?
+-we can initialized any variable/object by using:
+    .compile time ->x=10
+    .user input ->x=int(input("Enter x value"))
+    .using command line
+-at the time of program execution if we pass any arguments that arguments as called as command line argument.
+-we pass command line argument to initialized any variable or object at time program execution.
+-in python to works with command line we used argv(argument vector).
+-argv present in sys module.
+-argv is used to store all arguments in a list format and all argument type must be string type.
+-bydefault argv store one argument that is itself program.
+
+#wap to display how many numbers of argument passed by the user.
+from sys import argv 
+print("numbers of agrument=",len(argv))
+
+#wap to display all arguments stored in argv
+from sys import argv 
+print("numbers of agrument=",len(argv))
+print("argument list=",argv)//using object name
+print("argv[0]")//using index
+for element in argv:
+	print(element,type(element)) 
+
+#find sum all arguments which is pass by user
+from sys import argv
+res=0
+for i in range (1,len(argv)):
+	res=res+argv[i]
+	#print(argv[i])
+print(f"sum of of all arguments={res}")
+
+#sum of two numbers
+from sys import argv
+x,y=10,20
+print("sum=",x+y)
+print("=========")
+x=int(input("Enter x value"))
+y=int(input("Enter y value"))
+print("sum=",x+y)
+print("=========")
+x,y=int(argv[1],int (argv[2]))
+print("sum=",x+y)
+
+/*
+#wap to find factorial of any number using command line
+from sys import argv
+num=int(argv[1])
+sum=0
+for ch in str(num):
+	fact=1
+for i in range (1,int(ch)+1):
+	fact*=1
+	sum+=fact
+print(sum)
+*/
+v
+#wap to find factorial of any number using command line
+from sys import argv
+num=int(argv[1])
+sum=1
+while no != 0:
+	res=res*no
+	no-=1
+print(res)
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
