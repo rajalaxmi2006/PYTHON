@@ -17,3 +17,8 @@
         -readline() : read only one line data 
         -readlines() : read all data from file within a list
 
+# How to set and get file pointer position
+
+TELL() : is used to find current pointer position
+SEEK(position) : is used to set file current pointer position
+
