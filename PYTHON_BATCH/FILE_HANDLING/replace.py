@@ -1,7 +1,7 @@
 obj = open ("lata.txt" , 'r')
 data = obj.read()
 
-data.replace("Goodddddddddd", "Badddddddddd")
+data= data.replace("Goodddddddddd", "Badddddddddd")
 
 obj.close()
 
