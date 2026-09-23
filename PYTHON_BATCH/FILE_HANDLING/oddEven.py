@@ -1,7 +1,7 @@
 obj1 = open ("even.txt" , 'w')
 obj2 = open ("odd.txt" , 'w')
 
-res1, res2 = 0, 1
+res1, res2 = 0, 0 
 
 for no in range (1,500+1):
     if no % 2 == 0 :
