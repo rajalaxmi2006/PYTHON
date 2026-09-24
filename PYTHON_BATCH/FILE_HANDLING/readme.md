@@ -32,3 +32,4 @@ SEEK(position) : is used to set file current pointer position
 - reader() is used to read data from csv file
 - writerow([]) is used to write one row of data into csv file
 
+X mode : create a file if not exist or else through a error
