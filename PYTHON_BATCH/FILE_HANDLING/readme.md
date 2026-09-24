@@ -22,3 +22,13 @@
 TELL() : is used to find current pointer position
 SEEK(position) : is used to set file current pointer position
 
+## CSV Files
+- comma separated value (CSV)
+- in general case csv file can be create by using : 
+        -notepad
+        -excel
+- by using csv module we can works with python to csv file
+- writer() is used to write data into a csv file
+- reader() is used to read data from csv file
+- writerow([]) is used to write one row of data into csv file
+
